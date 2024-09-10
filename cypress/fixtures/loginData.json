@@ -1,0 +1,10 @@
+{
+  "validUser": {
+    "email": "cterreros@lean-tech.io",
+    "password": "Lean-tech28$"
+  },
+  "invalidEmailFormat": {
+    "email": "invalid@lean-tech@.io",
+    "password": "invalid"
+  }
+}

@@ -4,7 +4,8 @@ class LoginPage {
     
     usernameField = '#email'; 
     passwordField = '#password'; 
-    loginButton = '[data-testid="login-button"]';      
+    loginButton = '[data-testid="login-button"]'; 
+         
   
     // Methods to interact with elements
     enterUsername(username) {
